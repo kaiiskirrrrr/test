@@ -1,1 +1,1 @@
-bombtest=true
+bombtest=false
